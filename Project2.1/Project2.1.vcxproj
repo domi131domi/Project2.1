@@ -115,6 +115,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LargeNumber.cc" />
+    <ClCompile Include="main.cc" />
+    <ClCompile Include="supportFunctions.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LargeNumber.h" />
+    <ClInclude Include="supportFunctions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
