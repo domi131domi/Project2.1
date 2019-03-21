@@ -14,7 +14,6 @@ Version:    0.0.7 09/03/2019
 
 using namespace std;
 
-
 int main() {
 
     LargeNumber example("101111101011110000011111111");
